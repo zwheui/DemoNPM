@@ -2,4 +2,4 @@
      console.log('aaaa');
  }
 
- module.export.abc = abc;
+ module.exports.abc = abc;
